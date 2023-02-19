@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **PiDev**
+- 🎓 I’m currently studying Engineer's degree in Computer Science at [ESPRIT](https://esprit.tn/)
 
 - 🌱 I’m currently learning **angular**
 
