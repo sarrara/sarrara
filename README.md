@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **angular**
 
-- 👨‍💻 All of my projects are available at at [https://github.com/sarrara](https://github.com/sarrara)
+- 👨‍💻 All of my projects are available at [https://github.com/sarrara](https://github.com/sarrara)
 
 - 💬 Ask me about **SpringBoot,.net,html,css,js,java**
 
