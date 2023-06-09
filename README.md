@@ -9,11 +9,11 @@
 
 - 🎓I’m a Software engineering student at [ESPRIT](https://esprit.tn/)👩🏻‍💻
 
-- 🌱 I’m currently learning **angular**
-
+- 🌱 I’m currently learning **MERN**
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/sarrara](https://github.com/sarrara)
 
-- 💬 Ask me about **SpringBoot,.net,html,css,js,java**
+- 💬 Ask me about **angular,SpringBoot,.net,html,css,js,java**
 
 - 📫 How to reach me **sarra.chaouch@esprit.tn or sarrachaouch99@gmail.com**
 
