@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sarrara](https://github.com/sarrara)
 
-- 💬 Ask me about **angular,SpringBoot,.net,html,css,js,java**
+- 💬 Ask me about **Angular,SpringBoot,.Net,Html,CSS,JS,Java**
 
 - 📫 How to reach me **sarra.chaouch@esprit.tn or sarrachaouch99@gmail.com**
 
-- ⚡ Fun fact **I used to be a professional swimmer**
+- ⚡ Fun fact **I used to be a professional swimmer**🏊‍♀️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
